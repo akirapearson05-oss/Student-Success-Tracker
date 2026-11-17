@@ -1,0 +1,36 @@
+
+
+h1 {
+    color: #76B7E5;
+    font-weight: 800;
+}
+
+h2, h3 {
+    font-weight: 700;
+}
+
+[data-testid="stMetric"] {
+    background-color: rgba(118, 183, 229, 0.10);
+    border: 1px solid rgba(118, 183, 229, 0.35);
+    padding: 20px;
+    border-radius: 12px;
+}
+
+[data-testid="stMetricValue"] {
+    color: #76B7E5;
+}
+
+[data-testid="stSidebar"] {
+    border-right: 1px solid rgba(118, 183, 229, 0.25);
+}
+
+.stButton > button,
+.stDownloadButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

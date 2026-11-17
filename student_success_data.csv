@@ -1,0 +1,9 @@
+Student,Course,Average_Grade,Study_Hours,Missing_Assignments
+S001,Accounting,82.0,5.0,1
+S001,Statistics,75.0,4.0,2
+S002,Accounting,91.0,7.0,0
+S002,Statistics,86.0,6.0,1
+S003,Accounting,68.0,3.0,3
+S003,Statistics,72.0,4.0,2
+S004,Accounting,95.0,8.0,0
+S004,Statistics,91.0,5.0,1
